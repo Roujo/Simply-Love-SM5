@@ -12,7 +12,7 @@ local t = Def.ActorFrame{
 	LoadActor("./MenuTimer.lua"),
 	-- Apply player modifiers from profile
 	LoadActor("./PlayerModifiers.lua"),
-	-- Apply player modifiers from profile
+	-- Song Search (activated with Up/MenuUp+start)
 	LoadActor("./SongSearch.lua"),
 
 	-- ---------------------------------------------------
